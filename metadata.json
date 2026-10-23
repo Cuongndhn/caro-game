@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Caro Trực Tuyến - Caro & Gomoku Pro",
+  "description": "Trò chơi cờ Caro (Gomoku) trực tuyến đỉnh cao với chế độ chơi 2 người, đấu với AI thông minh đa cấp độ, luật chặn 2 đầu chuẩn Việt Nam và bàn cờ gỗ chân thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
